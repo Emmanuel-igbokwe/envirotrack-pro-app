@@ -1,6 +1,4 @@
 🌎 EnviroTrack Pro — Refinery Environmental Compliance Platform
-Live Demo: https://envirotrack-pro.vercel.app/
-Repository: https://github.com/Emmanuel-igbokwe/envirotrackPro
 EnviroTrack Pro is a fully integrated environmental compliance dashboard built for petroleum refineries.
 It unifies 12 critical regulatory programs into one modern, real‑time platform — replacing the scattered spreadsheets and outdated tools typically used in industry.
 This project demonstrates advanced React engineering combined with deep environmental domain expertise across CAA, CWA, RCRA, SPCC, EPCRA, OPA 90, and RMP/PSM programs.
